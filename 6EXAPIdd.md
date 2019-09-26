@@ -63,7 +63,7 @@ API 请求在通过 Internet
 请求说明
 --------
 
-1.  访问地址 [https://www.6ex.com](https://www.coinpea.com)
+1.  访问地址 [https://www.6ex.com]
 
 2.  在请求路径前都加上项目路径*/coinex-interface*
 
